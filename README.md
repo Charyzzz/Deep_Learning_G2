@@ -1,6 +1,7 @@
 # Deep_Learning_G2
 Repositorio destinado al aprendizaje del uso de modelos de Deep Learning aplicado al análisis de bioimágenes.
-Se incluyen los siguientes trabajos:
+
+Se incluye el siguiente trabajo:
 
 - Pipeline de Deep Learning para exploración, preparación, segmentación y entrenamiento de modelos U-Net utilizando imágenes biomédicas en formato `.tif`.
 El proyecto utiliza PyTorch para el entrenamiento del modelo y Napari para la exploración y visualización interactiva de imágenes y máscaras.
@@ -39,5 +40,5 @@ conda activate dlba
 ### 3. Ejecutar códigos
 ```bash
 # Reemplaza el nombre por el archivo a ejecutar:
-python unetSegmentationpy.py
+python unetFinal.py
 ```
