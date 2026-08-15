@@ -12,6 +12,11 @@ El proyecto utiliza PyTorch para el entrenamiento del modelo y Napari para la ex
 - Bazalar Gutierrez, Renzo
 - Vega Jauregui, Enmanuel
 
+
+## Dataset: [EPFL Mitochondria](https://www.epfl.ch/labs/cvlab/data/data-em/) 
+
+Contenido: Sección de 5x5x5µm tomada de la región hipocampal CA1 del cerebro (.tif) usando microscopía electrónica de transmisión (TEM)
+
 ## Configuración
 
 ### 1. Clonar el repositorio
